@@ -14,3 +14,4 @@ Learning log: small Python exercises on the way to an AI engineer portfolio.
 ```bash
 source .venv/bin/activate
 python count_docs.py /path/to/folder
+```
